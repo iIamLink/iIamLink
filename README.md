@@ -1,4 +1,5 @@
-### Olá! Seja bem vindo ao meu Git Hub 😄
+### Oláaa! Sejam bem-vindos ao meu Git Hub!! 😄
+### Hello! Welcome to my Git Hub!! 😄
 
 <div align="center">
   <a href="https://github.com/iiamlink">
