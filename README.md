@@ -6,9 +6,8 @@
   <img height="180rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=iiamlink&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180rem" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiamlink&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <p>Linguagens que estou aprendendoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPróximas linguagens que tenho interesse</p> 
 <div style="display: inline_block"><br>
-  <p>Linguagens que estou aprendendoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPróximas linguagens que tenho interesse</p>  
   <img title="HTML5" align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="SQL" align="center" alt="CSS" height="35" width="40" src="https://image.flaticon.com/icons/png/512/29/29165.png">
