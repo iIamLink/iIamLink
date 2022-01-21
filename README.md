@@ -8,7 +8,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <p>Linguagens que estou aprendendoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPróximas linguagens que tenho interesse</p>  
+  <p>Linguagens que estou aprendendoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPróximas linguagens que tenho interesse</p>  
   <img title="HTML5" align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="SQL" align="center" alt="CSS" height="35" width="40" src="https://image.flaticon.com/icons/png/512/29/29165.png">
