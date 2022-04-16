@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img title="HTML5" align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="SQL" align="center" alt="CSS" height="35" width="40" src="https://image.flaticon.com/icons/png/512/29/29165.png">
+  <img title="SQL" align="center" alt="CSS" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
   <img title="Javascrpit" align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="Typescript" align="right" alt="Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img title="React" align="right" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
